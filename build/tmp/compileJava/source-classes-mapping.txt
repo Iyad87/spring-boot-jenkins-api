@@ -1,0 +1,8 @@
+com/iyadAltoubah/repository/StudentRepository.java
+ com.iyadAltoubah.repository.StudentRepository
+com/iyadAltoubah/entity/Student.java
+ com.iyadAltoubah.entity.Student
+com/iyadAltoubah/StudentApplication.java
+ com.iyadAltoubah.StudentApplication
+com/iyadAltoubah/controller/StudentController.java
+ com.iyadAltoubah.controller.StudentController
